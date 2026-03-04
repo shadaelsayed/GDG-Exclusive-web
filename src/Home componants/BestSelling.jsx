@@ -16,7 +16,7 @@ const FlashSales = ({ products }) => {
       </div>
 
      
-      <div className="flex items-center justify-between mb-6 sm:mb-8 flex-col sm:flex-row">
+      <div className="flex items-center justify-between mb-6 sm:mb-8 flex-col sm:flex-row gap-5">
         <h2 className="text-2xl sm:text-3xl font-bold">Best Selling Products</h2>
         
 
